@@ -2,4 +2,10 @@
 Git is a distributed version control system.
 Git is free software.
 哈哈哈哈哈哈哈哈啊哈哈
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+1111111
+今天是七月的最后一天，周五，提前周末快乐
+
 
